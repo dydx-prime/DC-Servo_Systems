@@ -26,7 +26,7 @@ Given a video, the simulation of two systems using AC-Servo motors are created w
     <th>Value</th>
   </tr>
   <tr>
-    <td>Km ()</td>
+    <td>Km</td>
     <td>0.8</td>
   </tr>
   <tr>
