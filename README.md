@@ -13,7 +13,7 @@ Given a video, the simulation of two systems using AC-Servo motors are created w
 ## Servo Motor Transfer Function
 
 <p align="center">
-  <img src="https://quicklatex.com/cache3/ce/ql_be59ce0e23b5ff4adbf71f5f2ddfd6ce_l3.png" alt="DC_Servo">
+  <img src="transferFunc.jpg" alt="DC_Servo">
 </p>
 
 ## Parameter Data
